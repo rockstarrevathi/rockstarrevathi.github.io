@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/*.bg{
+  background-image: url("photographer.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}*/
+
+
+#top{
+    text-align: center;
+    padding: 250px;
+}
+
+header{
+    background-image: url("school of rockstars.jpg");
+    background-size: cover;
+    font-family: Lato;
+    background-position: center;
+}
+
+
+.content{
+    text-align: center;
+    padding: center;
+    color: white;
+}
